@@ -1,0 +1,3 @@
+[submodule "mne-python"]
+	path = mne-python
+	url = https://github.com/anywave/mne-python
