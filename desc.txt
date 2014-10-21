@@ -1,0 +1,5 @@
+name=HelmetShot
+description=Shows MEG sensors & digitization points
+input=all channels
+output=markers
+
